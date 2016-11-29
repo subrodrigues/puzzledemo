@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">McDonalds Puzzle</string>
+
+    <string name="label_ok">OK</string>
+
+    <string name="title_stats">Stats</string>
+    <string name="title_solved">Solved!</string>
+    <string name="puzzle_size_x_y">{0} x {1}</string>
+    <string name="title_select_tiling">Select tiling</string>
+    <string name="finished_type_expert_puzzle_in_n_moves">Finished {0} puzzle in {2} {2,choice,0#moves|1#move|1&lt;moves}.</string>
+    <string name="puzzle_n_moves_so_far">Moves so far: </string>
+
+    <string name="error_could_not_load_image">Could not load image.</string>
+    <string name="error_creating_directory_to_store_photo">Could not create directory to store photo.</string>
+
+</resources>

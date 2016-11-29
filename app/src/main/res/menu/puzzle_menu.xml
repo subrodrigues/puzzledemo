@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_overflow"
+        android:icon="@android:drawable/ic_menu_help"
+        android:orderInCategory="11111"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/scramble"
+                android:title="Scramble"/>
+
+            <item
+                android:id="@+id/select_image"
+                android:title="Select Image"/>
+
+            <item
+                android:id="@+id/take_photo"
+                android:title="Take Photo"/>
+
+            <item
+                android:id="@+id/change_tiling"
+                android:title="Change Tiling"/>
+
+            <item
+                android:id="@+id/stats"
+                android:title="Stats"/>
+        </menu>
+    </item>
+
+</menu>
